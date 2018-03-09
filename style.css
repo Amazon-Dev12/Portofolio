@@ -4,3 +4,47 @@
     padding: 0px;
 }
 
+body{
+    background-color: #4E3B43;
+}
+
+p{
+    margin: 5px;
+}
+
+#header{
+    padding: 15px;
+    background-color: #F6F6F6;
+    display: block;
+}
+
+#header h1 {
+    font-family: "Comic Sans MS";
+}
+
+.logo{
+    display: inline-block;
+}
+
+.slogan{
+    float: right;
+    margin-top: 10px;   
+}
+
+.slide{
+    border: 3px solid rgb(208, 208, 208);
+}
+
+.panel{
+    background-color:#ECE5EC;
+}
+
+.panel-header{
+    padding:5px;
+    background-color:#9C9BA4;
+    color: #fafafa;
+}
+
+.panel-body{
+    padding:5px;
+}
